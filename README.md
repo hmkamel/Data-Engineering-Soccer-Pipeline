@@ -1,4 +1,4 @@
-# ⚽ Soccer Data Engineering Pipeline
+# ⚽ Soccer Data Engineering Pipeline.
 
 A hands-on data engineering project that ingests real-time soccer data from a public API, stores raw JSON files, transforms the data into a normalized schema, and loads it into a data warehouse. The project is orchestrated using Apache Airflow and containerized with Docker.
 
@@ -114,3 +114,4 @@ docker-compose up --build
 ## 📄 License
 
 This project is licensed under the MIT License.
+.
