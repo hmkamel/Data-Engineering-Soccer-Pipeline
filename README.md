@@ -108,6 +108,7 @@ docker-compose up --build
 **Your Name**  
 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 [GitHub](https://github.com/your-username)
+yup now add the rest
 
 ---
 
